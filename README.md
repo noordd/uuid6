@@ -4,4 +4,4 @@
 
 from uuid6 import uuid6
 
-print(uuid6())
+id = uuid6()
