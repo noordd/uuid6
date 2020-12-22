@@ -1,7 +1,9 @@
 ## UUID Version 6
 
-#### Usage
+##### Usage:
 
+```python
 from uuid6 import uuid6
 
-id = uuid6()
+item_id = uuid6()
+```
